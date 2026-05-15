@@ -81,3 +81,18 @@ Sai lầm
 - Không biết lên kế hoạch xây dựng 1 chức năng
 - Mất thời gian.
 ```
+
+## 1.4: Thuật toán và sức mạnh của nó
+
+```
+"Thuật toán chiếm 80% thành công của 1 lập trình viên."
+```
+
+```
+Tác dụng của thuật toán:
+
+- Tạo sự rõ ràng từng bước
+- Dễ thực hiện
+- Tiết kiệm thời gian
+- Chuyên nghiệp
+```
