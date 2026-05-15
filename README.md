@@ -47,4 +47,16 @@ một website PHP
 - Phương pháp để xây dựng dự án thực tế từ A-Z
 - Tư duy phát triển sự nghiệp sau chương trình.
 ```
-s
+
+## 1.2: Những lý do để php là lựa chọn số 1
+
+```
+Thế mạnh của PHP
+
+- Mã nguồn mở, miễn phí
+- Tương thích đa trình duyệt
+- Tương thích đa thiết bị
+- Chạy trên đa hệ điều hành: window, macos, linux,...
+- Dễ học, dễ phát triển
+- Có 80% website đang dùng PHP
+```
