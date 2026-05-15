@@ -60,3 +60,24 @@ Thế mạnh của PHP
 - Dễ học, dễ phát triển
 - Có 80% website đang dùng PHP
 ```
+
+## 1.3: Những sai lầm thường gặp khi học php
+
+```
+Tư duy đúng:
+
+" Nếu bạn muốn giỏi lên một cách nhanh chóng,
+  bạn cần biết đang ở đâu, đang yếu kém ntn."
+```
+
+```
+Sai lầm
+
+- Học không có định hướng
+- Học mò mẫm
+- Không tạo ra được sản phẩm chất lượng
+- Không nắm được thuật toán
+- Không biết cách xây dựng hệ thống
+- Không biết lên kế hoạch xây dựng 1 chức năng
+- Mất thời gian.
+```
