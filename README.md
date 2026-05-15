@@ -130,3 +130,22 @@ Hành động
 
 -> Chúc mừng bạn có tư duy của lập trình viên chuyên nghiệp
 ```
+
+## 1.6 Tuyên bố mục tiêu hoàn thành
+
+```
+Trả lời câu hỏi?
+
+Câu hỏi 1: Cuộc sống của bạn sẽ thay đổi ntn nếu bạn trở thành lập trình viên giỏi
+...
+
+Câu hỏi 2: Bạn sẽ phải trả giá điều gì nếu thờ ơ và không nỗ nực hết mình?
+...
+```
+
+```
+Mục tiêu:
+
+Tôi: Trần Vũ Hoàng, quyết định hoàn thành chương trình và trở thành lập trình viên
+web giỏi sau: 2 tháng, từ ngày 15/05/2026 đến 16/07/2026
+```
