@@ -96,3 +96,37 @@ Tác dụng của thuật toán:
 - Tiết kiệm thời gian
 - Chuyên nghiệp
 ```
+
+## 1.5: Tư duy đúng của lập trình viên chuyên nghiệp
+
+```
+Niềm tin cũ - tiêu cực
+
+- Học lập trình rất khó
+- Học lập trình rất chán
+- Không thể giỏi lập trình
+- Không kiếm nhiều tiền từ lập trình
+- Không thể phát triển sự nghiệp bằng lập trình web
+- Học lập trình mất quá nhiều thời gian.
+```
+
+```
+Niềm tin mới - tích cực
+
+- Học lập trình rất dễ
+- Học lâp trình web rất thú vị
+- Tôi hoàn toàn có thể giỏi lập trình web
+- Tôi có thể kiếm được nhiều tiền từ lập trình web
+- Tôi phát triển sự nghiệp với lập trình web
+- Học lập trình web php chỉ mất 2 tháng.
+```
+
+```
+Hành động
+
+Đọc đi đọc lại tuyên bố hàng ngày nhằm
+- Xoá bỏ niềm tin cũ
+- Xác lập niềm tin mới
+
+-> Chúc mừng bạn có tư duy của lập trình viên chuyên nghiệp
+```
