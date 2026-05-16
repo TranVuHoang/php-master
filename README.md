@@ -184,3 +184,43 @@ php-master
 -- project
 
 ```
+
+## 2.4 Công cụ hỗ trợ học hiệu quả
+
+```
+Thiết bị cần có
+
+1. Sổ ghi chép
+2. Bút chì - bút nhiều màu
+3. Máy tính - kết nối internet
+4. Headphone - mic
+```
+
+```
+Sổ ghi chép
+
+- Tóm tắt lý thuyết
+- Minh họa cho thực hành
+- Ghi mục tiêu
+```
+
+```
+Bút chì 2B
+
+- Dễ ghi
+- Dễ chỉnh sửa
+```
+
+```
+Bút nhiều màu
+
+- Ghi đề mục
+- Làm nổi bật nội dung
+```
+
+```
+Headphone
+
+- Tập trung nghe giảng
+- Trao đổi đàm thoại
+```
