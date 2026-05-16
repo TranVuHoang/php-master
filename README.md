@@ -161,3 +161,21 @@ Tạo server giả lập trên máy tính để phục vụ phát triển ứng 
 - Xampp
 - wampp
 ```
+
+## 2.2 Chạy dự án php đầu tiên trên localhost
+
+```
+Check list chạy dự án đầu tiên
+
+1. Cài đặt localhost
+2. Truy cập htdocs(nơi tạo dự án)
+3. Xoá thư mục mặc định(cài đặt mới)
+4. Thêm dự án vào code ứng dụng trên netbean
+5. Khởi động server localhost
+6. Chạy test dự án php
+```
+
+```
+
+
+```
