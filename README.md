@@ -175,7 +175,12 @@ Check list chạy dự án đầu tiên
 6. Chạy test dự án php
 ```
 
-```
+## 2.3 Cấu trúc thư mục học tập
 
+```
+php-master
+-- lesson
+-- exercise
+-- project
 
 ```
