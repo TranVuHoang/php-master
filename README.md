@@ -224,3 +224,26 @@ Headphone
 - Tập trung nghe giảng
 - Trao đổi đàm thoại
 ```
+
+## 2.5 Học hiệu quả và ghi nhớ dễ dàng
+
+```
+Mục tiêu
+
+- Mục tiêu toàn chương trình (2 tháng)
+- Mục tiêu trong tháng
+- Mục tiêu trong tuần
+- Mục tiêu trong ngày
+- Mục tiêu giờ
+```
+
+```
+Cách ghi nhớ
+
+1. Xem bài giảng
+2. Tóm tắt lý thuyết
+3. Thực hành ví dụ trong bài giảng]
+4. Làm bài tập + project
+
+-> Thằng giỏi là thằng làm nhiều
+```
