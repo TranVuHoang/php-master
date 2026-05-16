@@ -242,8 +242,42 @@ Cách ghi nhớ
 
 1. Xem bài giảng
 2. Tóm tắt lý thuyết
-3. Thực hành ví dụ trong bài giảng]
+3. Thực hành ví dụ trong bài giảng
 4. Làm bài tập + project
 
 -> Thằng giỏi là thằng làm nhiều
+```
+
+## 2.6 Cách để được hỗ trợ hiệu quả
+
+```
+Tư duy
+
+- 1. Năng động
+- 2. Chủ động
+- 3. Chia sẻ
+- 4. Chịu trách nhiệm
+- 5. Năng lượng
+- 6. Kỷ luật
+- 7. ...
+```
+
+```
+Hệ thống hỗ trợ
+
+1. Group facebook
+2. Group chat
+3. Email
+4. Hệ thống unitop.vn
+```
+
+```
+Hành động
+
+1. Chủ động đăng nội dung thắc mắc
+2. Nhiệt tình chia sẻ, hỗ trợ anh em trong group
+3. Chủ động nhờ reviews bài thực hành trên group
+4. Tương tác hàng ngày trong group chat
+5. Sẵn sàng inbox người hướng dẫn, support nếu có vấn đề cấp thiết
+6. Thay đổi trạng thái cơ thể nếu đang bế tắc.
 ```
