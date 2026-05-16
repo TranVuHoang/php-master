@@ -149,3 +149,15 @@ Mục tiêu:
 Tôi: Trần Vũ Hoàng, quyết định hoàn thành chương trình và trở thành lập trình viên
 web giỏi sau: 2 tháng, từ ngày 15/05/2026 đến 16/07/2026
 ```
+
+# #Phần 2: Chuẩn bị cho hành trình
+
+## 2.1: Những phần mềm cần thiết
+
+```
+Server ảo - Localhost
+
+Tạo server giả lập trên máy tính để phục vụ phát triển ứng dụng
+- Xampp
+- wampp
+```
