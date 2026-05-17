@@ -333,3 +333,10 @@ KHAI BÁO CODE PHP
 - Code php được định nghĩa trong cặp dấu <?php ?>
 - Thông thường trong file php có sẵn các mã html, css, js
 ```
+
+## 3.3 Xuất dữ liệu trong php
+
+```
+- Xuất dữ liệu sau khi xử lý lên HTML - sử dụng câu lệnh echo();
+- Hiển thị dữ liệu mảng - Sử dụng câu lệnh print_r();
+```
