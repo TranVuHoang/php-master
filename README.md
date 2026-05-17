@@ -340,3 +340,11 @@ KHAI BÁO CODE PHP
 - Xuất dữ liệu sau khi xử lý lên HTML - sử dụng câu lệnh echo();
 - Hiển thị dữ liệu mảng - Sử dụng câu lệnh print_r();
 ```
+
+## 3.4 Nhúng php vào trong html
+
+```
+TẠI SAO?
+- Tạo sự kết hợp giữa cấu trúc html có sẵn và dữ liệu php được xử lý
+- Giúp tạo những nội dung được thay đổi trên cùng một cấu trúc website.
+```
