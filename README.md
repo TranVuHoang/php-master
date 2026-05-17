@@ -348,3 +348,57 @@ TẠI SAO?
 - Tạo sự kết hợp giữa cấu trúc html có sẵn và dữ liệu php được xử lý
 - Giúp tạo những nội dung được thay đổi trên cùng một cấu trúc website.
 ```
+
+## 3.5 Kinh nghiệm comment code trong php
+
+```
+TẠI SAO CẦN COMMENT CODE
+
+- Giúp chú thích từng phần trong chương trình
+- Tạo sự rõ ràng dễ nắm bắt nội dung
+- Tiện lợi cho việc bàn giao code, làm việc nhóm
+```
+
+```
+2 KIỂU COMMENT TỎNG PHP
+
+- Comment dòng
+// this is comment
+# this is comment
+
+- Comment nhiều dòng
+/**
+ * This is comment
+*/
+```
+
+```
+KINH NGHIỆM
+
+- Comment tiêu đề khối lớn
+//-------------------------------------
+// TIÊU ĐỀ KHỐI LỚN
+//-------------------------------------
+
+- Comment tiêu đề phụ
+//-------------------------------------
+// Tiêu đề khôi phụ
+//-------------------------------------
+
+- Comment trường hợp
+# Trường hợp 1
+# Trường hợp 2
+
+- Comment đoạn
+/**
+ * Lorem isump ...
+ */
+```
+
+```
+CHÚ Ý:
+
+- Thời gian đầu nên sử dụng nhiều comment
+- Nên có thói quen comment để tạo sự rõ ràng, dễ đọc lại
+- Cần có thói quen đọc comment code người khác.
+```
