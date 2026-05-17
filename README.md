@@ -323,3 +323,13 @@ TẠI SAO CHÚNG TA CHỌN PHP?
 - Là ngôn ngữ mà hơn 80% số lượng website trên thế giới sử dụng
 trong đó có google.com, facebook.com, ...
 ```
+
+## 3.2 Cú pháp viết code php
+
+```
+KHAI BÁO CODE PHP
+
+- Code PHP được khai báo trong file có đuôi mở rộng .php
+- Code php được định nghĩa trong cặp dấu <?php ?>
+- Thông thường trong file php có sẵn các mã html, css, js
+```
