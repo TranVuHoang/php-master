@@ -360,7 +360,7 @@ TẠI SAO CẦN COMMENT CODE
 ```
 
 ```
-2 KIỂU COMMENT TỎNG PHP
+2 KIỂU COMMENT TRONG PHP
 
 - Comment dòng
 // this is comment
@@ -401,4 +401,19 @@ CHÚ Ý:
 - Thời gian đầu nên sử dụng nhiều comment
 - Nên có thói quen comment để tạo sự rõ ràng, dễ đọc lại
 - Cần có thói quen đọc comment code người khác.
+```
+
+## 3.6 Bài tập phần 3
+
+```
+BÀI TẬP
+
+Xuất nội dung thông tin cá nhân được lưu trữ trong 3 biến:
+$fullname, $username, $email lên giao diện html(mô tả bên dưới)
+
+Demo:
+
+Họ và tên: Trần Vũ Hoàng
+Username: hoangtran
+Email: info.vnu.edu.vn
 ```
