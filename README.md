@@ -281,3 +281,45 @@ Hành động
 5. Sẵn sàng inbox người hướng dẫn, support nếu có vấn đề cấp thiết
 6. Thay đổi trạng thái cơ thể nếu đang bế tắc.
 ```
+
+# #Phần 3: Nhập môn lập trình php
+
+## 3.1: Tổng quan ngôn ngữ lập trình php
+
+```
+PHP LÀ GÌ?
+
+- PHP viết tắt của: Personal Home Page, sau này đổi thành Hypertext Preprocessor
+- Là ngôn ngữ xử lý phía server
+- Được phát triển do Rasmus Lerdorf 1994
+- PHP là ngôn ngữ được download và sử dụng free
+- Rất thích hợp để phát triển ứng dụng web
+```
+
+```
+FILE PHP
+
+- File php bao gồm: text, html, css, js và code php
+- File php được thực thi phía server và kết quả trà về trên trình duyệt dạng html
+- File php có đuôi mở rộng .php
+```
+
+```
+NGÔN NGỮ PHP CÓ THỂ LÀM ĐƯỢC GÌ?
+
+- PHP có thể thay đổi nội dung của trang
+- PHP có thể thực hiện các thao tác liên quan đến file như: mở, xoá, tạo file
+trên server
+- Có thể thao tác với Data(thêm, sửa, xoá, cập nhật) khi kết hợp với mySQL
+- PHP có thể lưu lại thông tin của phiên người dùng với việc sử dụng session,
+cookie
+```
+
+```
+TẠI SAO CHÚNG TA CHỌN PHP?
+
+- Là ngôn ngữ chạy trên nhiều nền tảng (window, linux, macOS,...)
+- Tương thích với hầu hết các server chúng ta sử dụng hàng ngày
+- Là ngôn ngữ mà hơn 80% số lượng website trên thế giới sử dụng
+trong đó có google.com, facebook.com, ...
+```
