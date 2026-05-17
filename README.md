@@ -417,3 +417,54 @@ Họ và tên: Trần Vũ Hoàng
 Username: hoangtran
 Email: info.vnu.edu.vn
 ```
+
+## 4.1 Biến và kinh nghiệm sử dụng biến php
+
+```
+BIẾN LÀ GÌ?
+
+Biến là khái niệm lưu trữ thông tin phụ vụ cho quá trình xử lý ứng dụng.
+Biến php được quy định bằng dấu $ và theo sau tên biến
+
+Ví dụ:
+```
+
+```php
+<?php
+$a = 10;
+$fullname = "Hoàng Trần";
+?>
+```
+
+```
+QUY TẮC ĐẶT TÊN BIẾN
+
+- Biến bắt đầu bằng ký tự $
+- Biến được đặt là ký tự $a, $b hoặc chuỗi mô tả hàm ý như $fullname
+- Tên biến chỉ bao gồm các ký tự trong hệ alpha, só và gạch dưới [A-z, 0-9] và _
+- Tên biến yêu cầu bắt đầu bởi một ký tự hoặc gạch dưới (_)
+- Tên biến không được bắt đầu bằng 1 số
+- Biến không được trùng với từ khoá
+- Biến có phân biệt chữ hoa, chữ thường: $myName khác với $myname
+- Nên viết theo cú pháp camelCase: $productName,...
+```
+
+```
+KINH NGHIỆM ĐẶT TÊN
+
+- Tên biến in thường nếu có 1 từ
+```
+
+```php
+$a = 10;
+$name = "Hoàng Trần";
+```
+
+```
+- Tên biến có 2 từ trở lên -> dùng cú pháp camelCase
+1. Từ đầu tiên in thường, ký tự đầu tiên của các từ tiếp theo in hoa
+```
+
+```php
+$listPost = array();
+```
