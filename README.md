@@ -418,6 +418,8 @@ Username: hoangtran
 Email: info.vnu.edu.vn
 ```
 
+# Phần 4: Dữ liệu trong php
+
 ## 4.1 Biến và kinh nghiệm sử dụng biến php
 
 ```
@@ -619,6 +621,8 @@ BÀI TẬP PHẦN 4
 Tôi là Hoàng, sinh năm 199x, cân nặng 62.5kg
 ```
 
+# Phần 5: Những phép toán quan trọng trong php
+
 ## 5.1 Phép toán số học trong php
 
 ```
@@ -660,4 +664,14 @@ PHÉP TOÁN SO SÁNH TRONG PHP
 >= : Lớn hơn hoặc bằng
 < : Nhỏ hơn
 <= : Nhỏ hơn hoặc bằng
+```
+
+## 5.4 Phép toán logic trong php
+
+```
+PHÉP TOÁN LOGIC TRONG PHP
+
+&& : AND - True nếu cả 2 vế
+|| : OR - True nếu 1 trong 2 vế
+! : Phủ định
 ```
