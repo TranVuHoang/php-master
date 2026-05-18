@@ -684,3 +684,14 @@ PHÉP TOÁN TRÊN CHUỖI
 . Nối hai chuỗi
 .= Nối thêm chuỗi
 ```
+
+## 5.6 Phép toán tăng giảm trong php
+
+```
+PHÉP TOÁN TĂNG GIẢM
+
+++$x; // Tăng 1 đơn vị vào $x trước khi thực hiện
+$x++; // Tăng 1 đơn vị vào $x sau khi thực hiện
+--$x; // Giảm 1 đơn vị vào $x trước khi thực hiện
+$x--; // Giảm 1 đơn vị vào $x sau khi thực hiện
+```
