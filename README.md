@@ -645,3 +645,19 @@ $x *= $y <=> $x = $x * $y
 $x /= $y <=> $x = $x / $y
 $x %= $y <=> $x = $x % $y
 ```
+
+## 5.3 Phép toán so sánh trong php
+
+```
+PHÉP TOÁN SO SÁNH TRONG PHP
+
+== : Bằng về giá trị
+===: Bằng về giá trị lẫn kiểu
+!= : Khác về giá trị
+!==: Khác về giá trị lẫn kiểu
+<> : Khác
+> : Lớn hơn
+>= : Lớn hơn hoặc bằng
+< : Nhỏ hơn
+<= : Nhỏ hơn hoặc bằng
+```
