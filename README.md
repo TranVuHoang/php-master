@@ -695,3 +695,12 @@ $x++; // Tăng 1 đơn vị vào $x sau khi thực hiện
 --$x; // Giảm 1 đơn vị vào $x trước khi thực hiện
 $x--; // Giảm 1 đơn vị vào $x sau khi thực hiện
 ```
+
+## 5.7 Bài tập phần 5
+
+```
+BÀI TẬP PHẦN 5
+
+Tạo biến số nguyên $a, nếu $a là số nguyên dương chẵn thì tiến
+hành cộng thêm 1 đơn vị và xuất ra người dùng
+```
