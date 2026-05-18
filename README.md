@@ -618,3 +618,17 @@ BÀI TẬP PHẦN 4
 3. Hiển thị thông tin cá nhân(Các thông tin được lưu ở dạng biến)
 Tôi là Hoàng, sinh năm 199x, cân nặng 62.5kg
 ```
+
+## 5.1 Phép toán số học trong php
+
+```
+CÁC PHÉP TOÁN SỐ HỌC TRONG PHP
+
++ : Tính tổng
+- : Tính hiệu
+* : Tính tích
+/ : Tính thương
+% : Tính dư
+pow() : Tính luỹ thừa
+
+```
