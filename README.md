@@ -468,3 +468,52 @@ $name = "Hoàng Trần";
 ```php
 $listPost = array();
 ```
+
+## 4.2 Sử dụng hằng số trong php
+
+```
+HẰNG SỐ LÀ GÌ?
+
+"Hằng số là giá trị không đổi trong suốt quá trình thực hiện
+chương trình, đại diện cho một giá trị duy nhất."
+```
+
+```
+CÁCH KHAI BÁO HẰNG
+
+Để khai báo hằng chúng ta sử dụng cấu trúc sau:
+
+<?php define("tên hằng", "giá trị hằng") ?>
+
+Ví dụ: tạo MINSIZE để lưu giá trị kích thước file upload bé nhất
+
+<?php
+define("_MINSIZE", 50);
+echo _MINSIZE;
+?>
+
+Chú ý: Đặt tên hằng tránh sử dụng trùng tên với hằng hệ thống
+```
+
+```
+HẰNG HỆ THỐNG
+
+__LINE__ : Số dòng hiện tại khi gọi giá trị hằng
+__FILE__ : Đường dẫn đến file được gọi
+__DIR__ : Đường dẫn đến folder chứa file hiện hành
+__CLASS__ : Lớp được gọi trong lập trình OOP
+__METHOD__ : Phương thức được gọi trong lập trình OOP
+__NAMESPACE__ : Tên NAMESPACE trong lập trình OOP
+```
+
+```
+PHÂN BIỆT BIẾN VÀ HẰNG
+
+- Khai báo hằng không cần có dấu $ đằng trước, trong khi
+biến thì cần ký hiệu $
+- Hằng không tạo được giá trị từ phép gán, nó chỉ được thiết lập
+khi chúng ta sử dụng hàm define()
+- Hằng có thẻ truy cập mọi nơi mà không phụ thuộc vào tầm vực như biến
+- Hằng khi đã được thiết lập thì chúng ta không thể định nghĩa lại hoặc
+huỷ bỏ chúng
+```
