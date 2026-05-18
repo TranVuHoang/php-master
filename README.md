@@ -607,3 +607,14 @@ DANH SÁCH BIẾN HỆ THỐNG:
 - $_COOKIE
 - $_SESSION
 ```
+
+## 4.8 Bài tập phần 4
+
+```
+BÀI TẬP PHẦN 4
+
+1. Tạo biến lưu trữ danh sách thành viên
+2. Tạo biến lưu trữ danh sách sản phẩm
+3. Hiển thị thông tin cá nhân(Các thông tin được lưu ở dạng biến)
+Tôi là Hoàng, sinh năm 199x, cân nặng 62.5kg
+```
