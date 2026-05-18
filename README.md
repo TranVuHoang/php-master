@@ -544,3 +544,19 @@ $m = 12.8;
 $k = -123.6;
 ?>
 ```
+
+## 4.4 Dữ liệu chuỗi trong php
+
+```
+CHUỖI LÀ GÌ?
+
+- Chuỗi dùng để lưu các đoạn văn bản và có thể chứa bất kỳ ký tự nào.
+- Chuỗi được khai báo nằm trong cặp dấu nháy đơn ('') hoặc hay kép ("")
+-> Nên sử dụng dấu nháy kép ("")
+
+<?php
+$myWebsite = "tranvuhoang.github.io";
+$fullname = "Hoàng Trần";
+$error = ""; // chuỗi rỗng
+?>
+```
