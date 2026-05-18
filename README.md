@@ -560,3 +560,20 @@ $fullname = "Hoàng Trần";
 $error = ""; // chuỗi rỗng
 ?>
 ```
+
+## 4.5 Dữ liệu mảng trong php
+
+```
+MẢNG LÀ GÌ?
+
+- Kiểu dữ liệu lưu trữ được nhiều giá trị thuộc nhiềuueihn kiểu dữ liệu khác nhau
+trong cùng một biến
+- Mảng có một chiều hoặc nhiều chiều
+- Mảng là kiểu dữ liệu quan trọng trong lưu trữ, xử lý, hiển thị thông tin
+trong ứng dụng
+
+<?php
+$listCourse = array("HTML", "CSS", "JAVASCRIPT", "PHP"); // Cách cổ điển
+$listNumberOdd = [1, 3, 5, 7, 9];// Cách hiện đại hơn
+?>
+```
