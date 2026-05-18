@@ -591,3 +591,19 @@ $check = true;
 $result = false;
 ?>
 ```
+
+## 4.7 Những biến toàn cục quan trọng trong php
+
+```
+DANH SÁCH BIẾN HỆ THỐNG:
+
+- $GLOBALS
+- $_SERVER
+- $_REQUEST
+- $_POST
+- $_GET
+- $_FILES
+- $_ENV
+- $_COOKIE
+- $_SESSION
+```
