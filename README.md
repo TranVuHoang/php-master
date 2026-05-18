@@ -675,3 +675,12 @@ PHÉP TOÁN LOGIC TRONG PHP
 || : OR - True nếu 1 trong 2 vế
 ! : Phủ định
 ```
+
+## 5.5 Phép toán trên chuỗi trong php
+
+```
+PHÉP TOÁN TRÊN CHUỖI
+
+. Nối hai chuỗi
+.= Nối thêm chuỗi
+```
