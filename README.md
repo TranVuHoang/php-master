@@ -632,3 +632,16 @@ CÁC PHÉP TOÁN SỐ HỌC TRONG PHP
 pow() : Tính luỹ thừa
 
 ```
+
+## 5.2 Phép toán gán trong php
+
+```
+PHÉP TOÁN GÁN TRONG PHP
+
+$x = $y
+$x += $y <=> $x = $x + $y
+$x -= $y <=> $x = $x - $y
+$x *= $y <=> $x = $x * $y
+$x /= $y <=> $x = $x / $y
+$x %= $y <=> $x = $x % $y
+```
