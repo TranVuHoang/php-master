@@ -577,3 +577,17 @@ $listCourse = array("HTML", "CSS", "JAVASCRIPT", "PHP"); // Cách cổ điển
 $listNumberOdd = [1, 3, 5, 7, 9];// Cách hiện đại hơn
 ?>
 ```
+
+## 4.6 Dữ liệu boolean trong php
+
+```
+KIỂU DỮ LIỆU BOOLEAN
+
+- Kiểu dữ liệu chỉ có giá trị true hoặc false
+- Thường được dùng để nhận giá trị trả về của biếu thức điều khiển, hàm
+
+<?php
+$check = true;
+$result = false;
+?>
+```
