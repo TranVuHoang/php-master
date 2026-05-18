@@ -517,3 +517,30 @@ khi chúng ta sử dụng hàm define()
 - Hằng khi đã được thiết lập thì chúng ta không thể định nghĩa lại hoặc
 huỷ bỏ chúng
 ```
+
+## 4.3 Dữ liệu số trong php
+
+```
+SỐ NGUYÊN
+
+- Đây là kiểu dữ liệu dùng lưu số nguyên, bao gồm số nguyên âm và nguyên dương
+- Tập số nguyên chạy trong khoảng: -2147483648 đến +2147483647
+
+<?php
+$age = 29;
+$k = 1;
+?>
+```
+
+```
+SỐ THỰC
+
+- Dùng lưu số thực, bao gồm số thực âm và dương
+- Số thực có giá trị nằm trong khoảng: -1.7E308 -> +1.7E308
+với 16 chữ số thập phân có nghĩa
+
+<?php
+$m = 12.8;
+$k = -123.6;
+?>
+```
