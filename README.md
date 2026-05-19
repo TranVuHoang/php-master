@@ -807,3 +807,25 @@ if(conditon1) {
 }
 ?>
 ```
+
+## 6.2 Cấu trúc điều khiển switch
+
+```
+CẤU TRÚC ĐIỀU KIỆN SWITCH-CASE
+
+switch-case là cấu trúc dùng để thực hiện các chức năng theo các
+trường hợp khác nhau
+
+switch($value) {
+  case value_1:
+    // code thực thi TH1
+    break;
+  case value_2:
+    // code thực thi TH2
+    break;
+  ...
+  default:
+    // code thực thi mặc định
+    break;
+}
+```
