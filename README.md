@@ -850,3 +850,19 @@ Cập nhật biến đếm: Thay đổi biến đếm sau mỗi vòng lặp(Đ�
 giới hạn kết thúc việc lặp)
 ?>
 ```
+
+## Bài 6.4 Vòng lặng while
+
+```
+VÒNG LẶP WHILE TRONG PHP
+
+<?php
+while(condition) {
+  // code thực thi
+}
+?>
+
+Trong đó:
+condition: Điều kiện dừng của vòng lặp
+Khối lệnh thực thi: Là đoạn chương trình xử lý khi condition đúng
+```
