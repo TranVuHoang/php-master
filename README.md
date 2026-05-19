@@ -829,3 +829,24 @@ switch($value) {
     break;
 }
 ```
+
+## 6.3 Vòng lặp for
+
+```
+VÒNG LẶP FOR
+
+Là cấu trúc nhằm thực thi lặp lại một chức năng có số lần
+xác định trước.
+
+<?php
+for (giá trị bắt đầu biến đếm; condition; cập nhật biến đếm) {
+  //logic
+}
+
+Trong đó:
+Giá trị bắt dầu biến đếm: Giá trị khởi động của vòng lặp
+Condition: Là điều kiện để thực hiện vòng lặp
+Cập nhật biến đếm: Thay đổi biến đếm sau mỗi vòng lặp(Để quyết định
+giới hạn kết thúc việc lặp)
+?>
+```
