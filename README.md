@@ -704,3 +704,106 @@ BÀI TẬP PHẦN 5
 Tạo biến số nguyên $a, nếu $a là số nguyên dương chẵn thì tiến
 hành cộng thêm 1 đơn vị và xuất ra người dùng
 ```
+
+# Phần 6: Cấu trúc điều khiển, vòng lặp trong php
+
+## 6.1 Cấu trúc điều khiển if
+
+```
+CẤU TRÚC ĐIỀU KHIỂN
+
+Cấu trúc điều khiển dùng để rẽ nhánh việc thực hiện các chức năng
+theo các điều kiện khác nhau
+
+- Cấu trúc if
+- Cấu trúc ifelse
+- Cấu trúc if...elseif...else
+- Cấu trúc điều kiện lồng nhau
+```
+
+```
+CẤU TRÚC IF
+
+Cấu trúc if dùng để xác định thực thi đoạn code nếu điều kiện(condition)
+có giá trị true
+
+<?php
+if(condition) {
+  // logic
+}
+?>
+```
+
+```
+BIỂU THỨC ĐIỀU KIỆN
+
+- Biểu thức đk đơn: Sử dụng phép toán so sánh để thiết lập giá trị so sánh hai biểu thức, giá trị trả về true hoặc false
+
+Ví dụ:
+$k < 10, $error == ""...
+
+- Biểu thức đk phức: Sử dụng các phép toán so sánh kết hợp với phép toán
+logic(&&, ||, !)
+
+Ví dụ:
+($username == "Admin") &&($password =="unitop") !empty($username)
+```
+
+```
+CHÚ Ý KHI TẠO BIỂU THỨC ĐIỀU KIỆN
+
+- Thứ tự ưu tiên khi xử lý các phép toán trong biểu thức đk là !, &&, ||
+- Tránh nhầm lẫn = (phép gán) và == (phép so sánh bằng)
+- Viết biểu thức rõ ràng, logic
+```
+
+```
+CẤU TRÚC IF..ELSE
+
+Cấu trúc if..else để xác định việc thực hiện chương trình khi điều kiện
+trả về true hoặc false
+
+<?php
+if(condition) {
+  // code thực thi khi condition trả về true
+} else {
+  // code thực thi khi condition trả về false
+}
+?>
+```
+
+```
+CẤU TRÚC IF..ELSEIF..ELSEIF..ELSE
+
+Cấu trúc trên để thực hiện các đoạn chương trình theo từng phân phúc
+điều kiện khác nhau.
+
+<?php
+if(conditon1) {
+  // code thực thi khi condition1 trả về true
+} elseif (condition2) {
+  // code thực thi khi condition2 trả về true
+}...
+elseif(conditionN) {
+  // code thực thi khi conditionN trả về true
+} else {
+  // code thực thi khi các trường hợp if bên trên trả về false.
+}
+
+?>
+```
+
+```
+CẤU TRÚC ĐIỀU KIỆN LỒNG NHAU
+
+Là cấu trúc điều kiện phụ thuộc vào các điều kiện khác
+
+<?php
+if(conditon1) {
+  // code thực thi khi condition1 true
+  if(condition2) {
+    // code thực thi khi condition1, condition2 true
+  }
+}
+?>
+```
