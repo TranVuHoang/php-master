@@ -866,3 +866,16 @@ Trong đó:
 condition: Điều kiện dừng của vòng lặp
 Khối lệnh thực thi: Là đoạn chương trình xử lý khi condition đúng
 ```
+
+## 6.5 Bài tập phần 6
+
+```
+BÀI TẬP PHẦN 6
+
+1. Tính tổng các sỗ chẵn từ 1 đến n (n >= 2)
+T1 = 2 + 4 + 6 + ... + n
+2. Tỉnh tổng nghịch đảo các số chia hết cho 3 từ 3 đến n(n >=3)
+3. Tính tổng chuỗi:
+T3 = 1/2 + 2/3 + 3/4 + ... + n/(n+1) ; (n >=1)
+4. Giải phương trình bậc 2
+```
