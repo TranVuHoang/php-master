@@ -936,3 +936,27 @@ $info = [
   "age" => 29,
 ]
 ```
+
+## 7.2 Khởi tạo giá trị cho mảng
+
+```
+KHỞI TẠO GIÁ TRỊ KHI TẠO MẢNG
+
+$info = [
+  "id" => 1,
+  "fullname => "Hoàng Trần"
+  "email" => "info@gmail.com"
+];
+```
+
+```
+KHỞI TẠO GIÁ TRỊ RIÊNG LẺ CÁC PHẦN TỬ
+
+// Khởi tạo mảng
+$info = [];
+
+// Tạo giá trị mảng
+$info["id"] = 1;
+$info["fullname"] = "Hoàng Trần";
+$info["email"] = "info@gmail.com";
+```
