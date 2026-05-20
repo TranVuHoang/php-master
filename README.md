@@ -960,3 +960,23 @@ $info["id"] = 1;
 $info["fullname"] = "Hoàng Trần";
 $info["email"] = "info@gmail.com";
 ```
+
+## 7.3 Thêm phần từ cho mảng php
+
+```
+THÊM PHẦN TỬ CHO MẢNG
+
+$info = [
+  "id" => 1,
+  "fullname => "Hoàng Trần"
+  "email" => "info@gmail.com"
+];
+
+// Thêm phần tử key xác định
+$info["phone"] = "0123456789"
+-----------------------------
+
+$list_prime = [2, 3, 4, 5, 6];
+// Thêm phần tử key mặc định
+$list_prime[] = 11;
+```
