@@ -1143,3 +1143,26 @@ foreach ($users as $user) {
   echo $user["age];
 }
 ```
+
+## 7.9 Nhúng mảng php vào html
+
+```
+XUÂT DỮ LIỆU TỪ MẢNG LÊN HTML
+```
+
+```
+TẠI SAO?
+-> Mảng sau khi xử lý cần xuất kết quả cho người dùng xem ở dạng HTML
+
+```
+
+```
+XUẤT DỮ LIỆU MẢNG 1 CHIỀU
+
+// Xuất dự liệu mảng danh sách số nguyên tố từ 2-10 lên bảng html
+```
+
+```
+XUÁT DỮ LIỆU MẢNG ĐA CHIỀU
+
+```
