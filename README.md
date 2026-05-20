@@ -1085,3 +1085,61 @@ $info = [
 unset($info['website']);
 ?>
 ```
+
+## 7.8 Duyệt mảng 1 chiều, mảng đa chiều trong PHP
+
+```
+TẠI SAO CẦN DUYỆT MẢNG
+
+- Giúp ghé thăm các phần tử của mảng
+- Tác động và xử lý các yêu cầu liên quan trực tiếp đến các phần tử của mảng
+(Xuất dữ liệu, tính toán,...)
+```
+
+```
+CẤU TRÚC "FOREACH" ĐỂ DUYỆT MẢNG TRONG PHP
+
+- foreach là cấu trúc dùng để duyệt mảng trong PHP
+- Trong mỗi bước chúng ta ghé thăm mỗi phần tử của mảng
+- "key" và "value" là thông tin của mỗi phần tử mảng được cung cấp
+trong vòng lặp
+
+foreach($myArray as $key => $value) {
+  // $key: key của phần tử đang được duyệt
+  // $value: giá trị của phần tử đang được duyệt
+
+// Xử lý tác động vào các phần tử của mảng
+}
+
+Note: Nếu không dùng đến "key" thì không cần đưa "key" vào vòng lặp.
+```
+
+```
+DUYỆT MẢNG 1 CHIỀU
+
+$list_prime = [1, 3, 5, 7];
+foreach ($list_prime as $value) {
+  echo $value;
+}
+```
+
+```
+DUYỆT MẢNG ĐA CHIỀU
+
+$users = [
+  [
+    "name" => "An",
+    "age" => 20
+  ],
+  [
+    "name" => "Bình",
+    "age" => 25
+  ]
+];
+
+// duyệt mảng đa chiều $users
+foreach ($users as $user) {
+  echo $user["name];
+  echo $user["age];
+}
+```
