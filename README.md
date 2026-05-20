@@ -980,3 +980,25 @@ $list_prime = [2, 3, 4, 5, 6];
 // Thêm phần tử key mặc định
 $list_prime[] = 11;
 ```
+
+## 7.4 Lấy thông tin phần tử của mảng
+
+```
+LẤY GIÁ TRỊ CỦA MẢNG
+
+Để truy xuất vào phần tử của mảng ta căn cứ vào từ khoá (key) của mảng
+
+$info = [
+  "id" => 1,
+  "fullname => "Hoàng Trần"
+  "email" => "info@gmail.com"
+];
+
+// Lấy dữ liệu fullname
+echo $info["fullname"];
+--------------------------
+
+$list_prime = [2, 3, 4, 5, 6];
+// Lấy số nguyên tố bé nhất
+$list_prime[0];
+```
