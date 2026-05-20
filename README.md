@@ -1020,3 +1020,45 @@ $info = [
 // Cập nhật lại fullname:
 $info["fullname"] = "Hoàng IT đẹp trai";
 ```
+
+## 7.6 Mảng đa chiều trong PHP
+
+```
+MẢNG ĐA CHIỀU
+
+- Mảng chứa một hoặc nhiều mảng khác bên trong
+mảng đa chiều
+- Mảng đa chiều thường sử dụng lưu trữ dữ liệu có cấu trúc nhiều tầng
+- Các thao tác trên mảng tương tự với mảng một chiều
+```
+
+```php
+<?php
+# 🚀 Ví dụ cơ bản
+$users = [
+  [
+    "name" => "An",
+    "age" => 20
+  ],
+  [
+    "name" => "Bình",
+    "age" => 25
+  ]
+];
+
+print_r($users);
+
+?>
+```
+
+```bash
+#📌 Cấu trúc
+$users
+ ├── [0]
+ │    ├── name => An
+ │    └── age => 20
+ │
+ └── [1]
+      ├── name => Bình
+      └── age => 25
+```
