@@ -1062,3 +1062,26 @@ $users
       ├── name => Bình
       └── age => 25
 ```
+
+## 7.7 Xoá mảng, xoá phần tử trong mảng
+
+```
+XOÁ PHẦN TỬ TRONG MẢNG
+
+Sử dụng hàm unset() để xoá phần tử mảng được chỉ định bằng đường dẫn
+truy cập đến "key" phần tử cần xoá
+```
+
+```php
+<?php
+$info = [
+  "id" => 1,
+  "fullname" => "Hoàng Trần",
+  "email" => "info@gmail.com",
+  "website" => "tranvuhoang.github.io",
+];
+
+// Xoá phần tử website trong mảng $info
+unset($info['website']);
+?>
+```
