@@ -1002,3 +1002,21 @@ $list_prime = [2, 3, 4, 5, 6];
 // Lấy số nguyên tố bé nhất
 $list_prime[0];
 ```
+
+## 7.5 Cập nhật thông tin mảng
+
+```
+CẬP NHẬT MẢNG
+
+Để cập nhật giá trị của mảng, cần xác định (key) của phần tử cần cập nhật
+và thực hiện thao tác gán lại giá trị.
+
+$info = [
+  "id" => 1,
+  "fullname => "Hoàng Trần"
+  "email" => "info@gmail.com"
+];
+
+// Cập nhật lại fullname:
+$info["fullname"] = "Hoàng IT đẹp trai";
+```
