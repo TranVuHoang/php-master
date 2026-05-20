@@ -879,3 +879,60 @@ T1 = 2 + 4 + 6 + ... + n
 T3 = 1/2 + 2/3 + 3/4 + ... + n/(n+1) ; (n >=1)
 4. Giải phương trình bậc 2
 ```
+
+# Phần 7: Mảng nâng cao trong php
+
+## 7 1 Cấu trúc mảng trong php
+
+```
+MẢNG LÀ GÌ?
+
+Mảng là biến đặc biệt có thể lưu nhiều giá trị trong cùng một thời điểm
+
+<?php
+// Lưu thông thường
+$user_1 = "Nguyễn Văn A";
+$user_2 = "Nguyễn Văn B"
+$user_3 = "Nguyễn Văn C"
+
+// Lưu mảng
+$users = ["Nguyễn Văn A", "Nguyễn Văn B", "Nguyễn Văn C"];
+?>
+```
+
+```
+CẤU TRÚC MẢNG
+
+- $myArray = ["key_1" => value_1, "key_2" => value_2];
+- Trong đó:
+  - key: dùng để phân biệt các phần tử mảng
+  - value: giá trị của phần tử mảng
+  - (key, value) là cặp thông tin đặc trưng của mỗi phần tử mảng
+
+- Note: Key được tạo nên bởi giá trị là chuỗi hoặc sô nguyên.
+```
+
+```
+TẠO MẢNG RỖNG
+
+$error = [];
+Dùng làm mảng khởi tạo
+```
+
+```
+TẠO MẢNG VỚI KEY MẶC ĐỊNH
+
+$list_even = [0 => 2, 1 => 4, 2 => 6, 3 => 8, 4 => 10];
+Ta có thể viết rút gọn(nếu key mặc định)
+$list_even = [2, 4, 6, 8, 10];
+```
+
+```
+TẠO MẢNG VỚI KEY XÁC ĐỊNH
+
+$info = [
+  "id" => 1,
+  "fullname" => "Hoàng Trần",
+  "age" => 29,
+]
+```
