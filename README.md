@@ -1209,3 +1209,31 @@ Trong đó:
 - Phần nội dung của hàm được nằm trong cặp dấu {...} bao gồm xử lý dữ liệu và
 trả về của hàm.
 ```
+
+## 8.2 Cách đặt tên hàm chất lượng
+
+```
+SAI LẦM KHI ĐẶT TÊN HÀM
+
+- Tên hàm bằng tiếng việt
+- Tên hàm sai quy tắc ký tự
+- Tên hàm trùng với keyword trong PHP
+- Tên hàm không có ý nghĩa
+- Tên hàm khó nhận diện khi có nhiều từ
+
+Ví dụ đặt sai cách tên hàm: baiviet(); chitietsanpham();...
+```
+
+```
+CÁCH ĐẶT TÊN HÀM CHUYÊN NGHIỆP
+
+- Tên tạo ra từ bộ ký tự [A-z, 0-9] và _
+- Tên hàm yêu cầu bắt đầu bởi một ký tự hoặc dấu gạch dưới
+- Tên hàm không được bắt đầu bởi một số
+- Tên hàm có phân biệt hoa thường
+- Tên hàm phản ánh ý nghĩa của hàm
+- Tên hàm cần có động từ
+- Tên hàm có một từ viết thường
+- Tên hàm có 2 từ trở lên thì viết theo camelCase(lạcĐà)
+- Ví dụ: getTotal(); getListPost();...
+```
