@@ -1237,3 +1237,39 @@ CÁCH ĐẶT TÊN HÀM CHUYÊN NGHIỆP
 - Tên hàm có 2 từ trở lên thì viết theo camelCase(lạcĐà)
 - Ví dụ: getTotal(); getListPost();...
 ```
+
+## 8.3 Tham số trong hàm
+
+```
+THAM SỐ HÀM
+
+- Khi thực hiện một chức năng nào đó nhiều khi chúng ta cần những giá trị đầu vào
+đó chính là tham số hàm.
+- Hàm không có tham số hoặc có 1 hoặc nhiều tham số
+- Tham số có thể là kiểu dữ liệu: chuỗi(string), số(integer, float, double,...)
+boolean,...
+```
+
+```php
+function myFuncion() {
+  // logic
+}
+
+function myFunction2($parameter) {
+  // logic
+}
+
+function myFunction3($parameter1, $parameter2) {
+// logic
+}
+```
+
+```
+THAM SỐ HÀM NÂNG CAO
+
+- Tham số hàm tuỳ ý
+- Hàm bổ trợ:
+  - Lấy số lượng tham số: func_num_args()
+  - Lấy giá trị tham số riêng lẻ: func_get_arg(k); k là vị trí tham số thứ k trong hàm
+  - Lấy mảng tham số hàm: func_get_args()
+```
