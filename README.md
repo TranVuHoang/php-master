@@ -1176,3 +1176,36 @@ XUÁT DỮ LIỆU MẢNG ĐA CHIỀU
 4. Hiển thị danh sách bài viết lên giao diện
 5. Hiển thị danh sách sản phẩm lên giao diện
 ```
+
+# Phần 8 Khám phá hàm trong PHP
+
+## 8.1 Tầm quan trọng và cách định nghĩa hàm
+
+```
+HÀM VÀ Ý NGHĨA CỦA HÀM
+
+Hàm là một khái niệm dùng để định nhĩa một chức năng dùng đi dùng lại mà
+do người lập trình tạo nên
+
+- Chúng ta có thể tự tạo hàm cho riêng mình
+- Hàm có thể sử dụng lặp lại nhiều lần trong chương trình
+- Hàm được thực thi khi chung ta thực hiện lệnh gọi hàm
+- Tham số hàm có thể là bất kỳ kiểu dữ liệu nào trong PHP:
+string, float, integer, array, object
+- Hàm có giá trị trả về phục vụ quá trình xử lý
+```
+
+```
+ĐỊNH NGHĨA HÀM
+
+function nameFunction([$avirable_1], [$avirable_2],...[$avirable_N]) {
+  // logic
+}
+
+Trong đó:
+- function: là từ khoá định nghĩa hàm
+- nameFuction: tên hàm
+- [$avirable_1], [$avirable_2]: Tham số hàm
+- Phần nội dung của hàm được nằm trong cặp dấu {...} bao gồm xử lý dữ liệu và
+trả về của hàm.
+```
