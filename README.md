@@ -1295,3 +1295,34 @@ function checkLogin($username, $password) {
   return $value;
 }
 ```
+
+## 8.5 Tầm vực biến trong hàm
+
+```
+BIẾN CÓ TẦM VỰC CỤC BỘ - "FUNCTION SCOPE"
+
+Biến "function scope" chỉ có tác dụng trong nội bộ hàm, không có tác dụng bên ngoài hàm
+
+function total(float $a, float $b): float
+{
+  return $a + $b;
+}
+-> Biến $a, $b chỉ có tác dụng bên trong hàm total thôi, ra bên ngoài hàm thì
+không dùng được.
+```
+
+```
+BIẾN CÓ TẦM VỰC TOÀN CỤC - GLOBAL SCOPE
+```
+
+```php
+$a = 10;
+$b = 5;
+
+function sum(): float
+{
+  global $a, $b;
+
+  retun $a + $b;
+}
+```
