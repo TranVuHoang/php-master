@@ -1273,3 +1273,25 @@ THAM SỐ HÀM NÂNG CAO
   - Lấy giá trị tham số riêng lẻ: func_get_arg(k); k là vị trí tham số thứ k trong hàm
   - Lấy mảng tham số hàm: func_get_args()
 ```
+
+## 8.4 Xử lý giá trị trả về của hàm
+
+```
+GIÁ TRỊ TRẢ VỀ CỦA HÀM
+
+- Giá trị trả về trong hàm(không return): kết quả thực thi được hiển thị ngay
+trong hàm (thông qua câu lệnh hiển thị)
+
+function showArray($data) {
+  // logic
+  print_r($data);
+}
+
+- Giá trị trả về qua return: sau khi thực hiện xong hàm thì hàm sẽ được trả về
+một giá trị thông qua câu lệnh return được đặt trong hàm.
+
+function checkLogin($username, $password) {
+  // logic
+  return $value;
+}
+```
