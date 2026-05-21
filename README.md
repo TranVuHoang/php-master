@@ -1326,3 +1326,26 @@ function sum(): float
   retun $a + $b;
 }
 ```
+
+## 8.6 Cách gọi hàm để sử dụng
+
+```
+GỌI HÀM TRONG PHP
+
+Để gọi hàm bạn vui lòng viết tên hàm kèm tham số(nếu có) và kết thúc bằng dấu;
+
+<?php
+  checkEven(5);
+  total(1, 100);
+?>
+
+Đối với hàm có giá trị trả về bạn cần sử dụng biến gán lại giá trị trả về sau khi gọi hàm để sử dụng về sau.
+
+<?php
+$t = $total_prime(1, 100);
+
+if(check_login($user_name, $password)) {
+  // logic
+}
+?>
+```
