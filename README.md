@@ -1349,3 +1349,24 @@ if(check_login($user_name, $password)) {
 }
 ?>
 ```
+
+## 8.7 Bài tập phần 8
+
+```
+1.  xây dựng hàm kiểm tra số nguyên chẵn
+checkEven($number);
+
+- Hàm in ra dòng:
+  - "Đây là số nguyên chẵn" => Nếu $number là số nguyên chẵn
+  -"Đây là số nguyên lẻ" => ngược lại
+
+- Hàm trả về:
+  - true nếu $number là số chẵn
+  - flase nếu $number là số lẻ
+
+2. Tính tổng các số nguyên tố từ 2->$n ($n >=2)
+  checkPrime();
+  totalPrime();
+
+3. Hàm lấy thông tin chi tiết một bài viết theo id trong mảng bài viết.
+```
