@@ -1370,3 +1370,20 @@ checkEven($number);
 
 3. Hàm lấy thông tin chi tiết một bài viết theo id trong mảng bài viết.
 ```
+
+## #9 Thư viện hàm trong PHP
+
+# 9.1 Hàm toán học
+
+```
+1. HÀM TOÁN HỌC
+
+- abs: trị tuyệt đối
+- sqrt(): căn bậc 2
+- max: giá trị lớn nhất
+- min: giá trị nhỏ nhất
+- rand: ngẫu nhiên
+- round:
+- ceil:
+- floor:
+```
